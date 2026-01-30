@@ -1,3 +1,27 @@
+.underline-hover {
+  position: relative;
+  text-decoration: none;
+}
+
+.underline-hover::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #ffffff;
+  transform-origin: bottom right;
+  transition: transform 0.3s ease-out;
+}
+
+.underline-hover:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+
 .content-wrapper {
     min-height: 100vh;
     display: flex;

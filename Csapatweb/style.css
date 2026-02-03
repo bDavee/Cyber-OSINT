@@ -1,5 +1,5 @@
 
-.mainNavbar{
+#mainNavbar{
     transition: top 0.3s ease;
     z-index: 1000;
 }

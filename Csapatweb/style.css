@@ -124,3 +124,8 @@
 .waveAnimation .waveBottom {
     animation: move_wave 15s linear infinite;
 }
+
+.cards{
+    margin-top: 400px;
+    padding: 20px;
+}

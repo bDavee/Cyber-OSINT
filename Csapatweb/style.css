@@ -52,7 +52,27 @@
     box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
 }
 
+.card{
+    border: none;
+}
 
+.card::before{
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 7px;
+    height: 100%;
+    background:  radial-gradient(circle,rgba(192, 192, 192, 1) 0%, rgba(115, 111, 109, 1) 100%);
+    z-index: -1;
+    transition: all 0.5s cubic-bezier(0.23, 1, 0.320, 1);
+    border-radius: 6px;
+}
+
+.card:hover::before{
+    width: 100%;
+    
+}
 
 
 
@@ -134,3 +154,4 @@
     margin-top: 400px;
     padding: 20px;
 }
+             

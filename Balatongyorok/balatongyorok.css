@@ -1,0 +1,9 @@
+body {
+    background-image: url("./img/kep2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.text-justify {
+    text-align: justify;
+}

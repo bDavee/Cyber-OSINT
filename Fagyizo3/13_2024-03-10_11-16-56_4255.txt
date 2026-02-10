@@ -1,0 +1,210 @@
+SĂźni;vegyes;300;db
+GesztenyealagĂşt;vegyes;500;db
+Sajtos pogĂĄcsa;sĂłs teasĂźtemĂŠny;3300;kg
+DiĂłs-mĂĄkos;bejgli;3500;koszorĂş
+Sajttorta (mĂĄlnĂĄs);torta;9000;12 szeletes
+Citrom;torta;3900;8 szeletes
+Citrom;torta;7400;16 szeletes
+Citrom;torta;11400;24 szeletes
+EszterhĂĄzy;tortaszelet;490;db
+RĂĄkĂłczi-tĂşrĂłs;pite;400;db
+Meggyes kocka;tejszĂ­nes sĂźtemĂŠny;450;db
+LegĂŠnyfogĂł;torta;12100;24 szeletes
+LegĂŠnyfogĂł;torta;4300;8 szeletes
+LegĂŠnyfogĂł;torta;8200;16 szeletes
+Alpesi karamell;tortaszelet;490;db
+KĂłkuszcsĂłk;ĂŠdes teasĂźtemĂŠny;3400;kg
+Habos mĂĄkos;pite;400;db
+SzilvĂĄs;pite;350;db
+JuhtĂşrĂłs pĂĄrna;sĂłs teasĂźtemĂŠny;5000;kg
+MĂĄkos guba;tortaszelet;530;db
+NĂŠrĂł;ĂŠdes teasĂźtemĂŠny;3400;kg
+Sacher;tortaszelet;490;db
+Citrom;tortaszelet;450;db
+Ribizlihabos-almĂĄs rĂŠteges;kĂźlĂśnleges torta;4700;8 szeletes
+HĂĄrom kĂ­vĂĄnsĂĄg;torta;5700;8 szeletes
+HĂĄrom kĂ­vĂĄnsĂĄg;torta;5700;8 szeletes
+Dobos;torta;9000;16 szeletes
+Dobos;torta;13200;24 szeletes
+Dobos;torta;4700;8 szeletes
+Epres mascarpone;tortaszelet;550;db
+CsokolĂĄdĂŠmousse;torta;11400;24 szeletes
+CsokolĂĄdĂŠmousse;torta;3900;8 szeletes
+CsokolĂĄdĂŠmousse;torta;7400;16 szeletes
+OroszkrĂŠm;torta;8200;16 szeletes
+OroszkrĂŠm;torta;4300;8 szeletes
+OroszkrĂŠm;torta;12100;24 szeletes
+Medvetalp;vegyes;400;db
+TrĂźffel;torta;15400;24 szeletes
+TrĂźffel;torta;10400;16 szeletes
+TrĂźffel;torta;5400;8 szeletes
+TejszĂ­nes gyĂźmĂślcsĂśs (meggy);torta;8200;16 szeletes
+TejszĂ­nes gyĂźmĂślcsĂśs (meggy);torta;4300;8 szeletes
+TejszĂ­nes gyĂźmĂślcsĂśs (meggy);torta;12100;24 szeletes
+MĂĄkos-szilvalekvĂĄros;bejgli;3500;koszorĂş
+Ribizlihabos-?almĂĄ?s rĂŠteges tortaszelet;tortaszelet;530;db
+MarcipĂĄnos vĂĄgott;ĂŠdes teasĂźtemĂŠny;5200;kg
+IndiĂĄner;vegyes;500;db
+Meggyes;pite;350;db
+MĂĄkos;bejgli;1700;rĂşd
+SĂłs karamella;torta;4700;8 szeletes
+SĂłs karamella;torta;13200;24 szeletes
+SĂłs karamella;torta;9000;16 szeletes
+LegĂŠnyfogĂł;tortaszelet;490;db
+RigĂł Jancsi;torta;3900;8 szeletes
+RigĂł Jancsi;torta;7400;16 szeletes
+RigĂł Jancsi;torta;11400;24 szeletes
+TejszĂ­nes gyĂźmĂślcsĂśs (erdei gyĂźmĂślcs);torta;4300;8 szeletes
+TejszĂ­nes gyĂźmĂślcsĂśs (erdei gyĂźmĂślcs);torta;8200;16 szeletes
+TejszĂ­nes gyĂźmĂślcsĂśs (erdei gyĂźmĂślcs);torta;12100;24 szeletes
+Ez+Az (csokolĂĄdĂŠ ĂŠs gesztenye);torta;13200;24 szeletes
+Ez+Az (csokolĂĄdĂŠ ĂŠs gesztenye);torta;9000;16 szeletes
+Ez+Az (csokolĂĄdĂŠ ĂŠs gesztenye);torta;4700;8 szeletes
+MĂĄlnĂĄs mascarpone;torta;5700;8 szeletes
+MĂĄlnĂĄs mascarpone;torta;16200;24 szeletes
+MĂĄlnĂĄs mascarpone;torta;10900;16 szeletes
+Dobos;tortaszelet;530;db
+Ferrero;torta;16200;24 szeletes
+Ferrero;torta;10900;16 szeletes
+Ferrero;torta;5700;8 szeletes
+Vegyes hĂĄzi pite falatok;pite;4200;kg
+ĂkĂśrszem;ĂŠdes teasĂźtemĂŠny;3800;kg
+Danubius kocka;tejszĂ­nes sĂźtemĂŠny;450;db
+SajtkrĂŠmmel tĂśltĂśtt fĂĄnkocska;sĂłs teasĂźtemĂŠny;5200;kg
+TĂşrĂłkrĂŠm gyĂźmĂślccsel dĂ­szĂ­tve;tortaszelet;490;db
+AlmĂĄs;pite;350;db
+Mignon;vegyes;250;db
+CsokolĂĄdĂŠmousse fĂŠnyes csokolĂĄdĂŠval;torta;13400;24 szeletes
+CsokolĂĄdĂŠmousse fĂŠnyes csokolĂĄdĂŠval;torta;9200;16 szeletes
+CsokolĂĄdĂŠmousse fĂŠnyes csokolĂĄdĂŠval;torta;4900;8 szeletes
+VĂĄgott sĂłs (sĂłs omlĂłs);sĂłs teasĂźtemĂŠny;4000;kg
+Nagyi sĂłs;sĂłs teasĂźtemĂŠny;5000;kg
+Vegyes sĂłs;sĂłs teasĂźtemĂŠny;4200;kg
+SomlĂłi;tortaszelet;580;db
+Tiramisu;tortaszelet;600;db
+HegyvidĂŠk;tortaszelet;600;db
+Szedres csokolĂĄdĂŠ;tortaszelet;530;db
+PogĂĄcsĂĄk vegyesen;sĂłs teasĂźtemĂŠny;3200;kg
+LĂşdlĂĄb;torta;13200;24 szeletes
+LĂşdlĂĄb;torta;9000;16 szeletes
+LĂşdlĂĄb;torta;4700;8 szeletes
+Sacher;torta;8200;16 szeletes
+Sacher;torta;12100;24 szeletes
+Sacher;torta;4300;8 szeletes
+EszterhĂĄzy;torta;8400;16 szeletes
+EszterhĂĄzy;torta;12200;24 szeletes
+EszterhĂĄzy;torta;4500;8 szeletes
+ZalavĂĄri gesztenye;tortaszelet;600;db
+GesztenyegolyĂł;vegyes;350;db
+PisztĂĄciĂĄs-mĂĄlnĂĄs mascarpone;tortaszelet;750;db
+Habos mĂĄkos;vegyes;400;db
+FranciakrĂŠmes;krĂŠmes;350;
+Gesztenye kocka;tejszĂ­nes sĂźtemĂŠny;500;db
+PisztĂĄciĂĄs-mĂĄlnĂĄs mascarpone;torta;18400;24 szeletes
+PisztĂĄciĂĄs-mĂĄlnĂĄs mascarpone;torta;6400;8 szeletes
+PisztĂĄciĂĄs-mĂĄlnĂĄs mascarpone;torta;12400;16 szeletes
+MĂĄlnĂĄs kocka;tejszĂ­nes sĂźtemĂŠny;450;db
+Sajttorta (mĂĄlnĂĄs);tortaszelet;700;db
+TĂşrĂłkrĂŠm gyĂźmĂślccsel;torta;7400;16 szeletes
+TĂşrĂłkrĂŠm gyĂźmĂślccsel;torta;3900;8 szeletes
+TĂşrĂłkrĂŠm gyĂźmĂślccsel;torta;11400;24 szeletes
+Csokis kaland;kĂźlĂśnleges torta;5700;8 szeletes
+SomlĂłi;torta;5400;8 szeletes
+Palermo;torta;7400;16 szeletes
+Palermo;torta;3900;8 szeletes
+Palermo;torta;11400;24 szeletes
+SzilvalekvĂĄros;bejgli;2100;rĂşd
+Ănnepi diĂłtorta grillĂĄzzsal;torta;10900;16 szeletes
+Ănnepi diĂłtorta grillĂĄzzsal;torta;5700;8 szeletes
+Ănnepi diĂłtorta grillĂĄzzsal;torta;16200;24 szeletes
+OroszkrĂŠm;tortaszelet;490;db
+Mini zserbĂł;ĂŠdes teasĂźtemĂŠny;4200;kg
+Sajtos masni;sĂłs teasĂźtemĂŠny;4000;kg
+ZserbĂł;pite;350;db
+TejszĂ­nes gyĂźmĂślcsĂśs (mĂĄlna);torta;8200;16 szeletes
+TejszĂ­nes gyĂźmĂślcsĂśs (mĂĄlna);torta;4300;8 szeletes
+TejszĂ­nes gyĂźmĂślcsĂśs (mĂĄlna);torta;12100;24 szeletes
+MarcipĂĄnos csokolĂĄdĂŠ;torta;5700;8 szeletes
+MarcipĂĄnos csokolĂĄdĂŠ;torta;16200;24 szeletes
+MarcipĂĄnos csokolĂĄdĂŠ;torta;10900;16 szeletes
+Csokis kaland;tortaszelet;650;db
+MarcipĂĄn tekercs;ĂŠdes teasĂźtemĂŠny;5200;kg
+KĂŠpviselĹfĂĄnk;vegyes;500;db
+Epres omlett;vegyes;600;db
+Mini linzer;ĂŠdes teasĂźtemĂŠny;3400;kg
+Linzerkarika;vegyes;300;db
+Szedres csokolĂĄdĂŠ;torta;13200;24 szeletes
+Szedres csokolĂĄdĂŠ;torta;9000;16 szeletes
+Szedres csokolĂĄdĂŠ;torta;4700;8 szeletes
+NarancsĂ­v;ĂŠdes teasĂźtemĂŠny;5200;kg
+GesztenyepĂźrĂŠ;vegyes;800;20 dkg
+Palermo;tejszĂ­nes sĂźtemĂŠny;450;db
+Csokis nĂŠrĂł;ĂŠdes teasĂźtemĂŠny;4200;kg
+FlĂłdni;pite;400;db
+MĂŠzeskalĂĄcs;torta;16200;24 szeletes
+MĂŠzeskalĂĄcs;torta;5700;8 szeletes
+MĂŠzeskalĂĄcs;torta;10900;16 szeletes
+OlĂ­vĂĄs pogĂĄcsa;sĂłs teasĂźtemĂŠny;3300;kg ??
+Florentin;ĂŠdes teasĂźtemĂŠny;5200;kg
+Tiramisu;torta;10400;16 szeletes
+Tiramisu;torta;15400;24 szeletes
+Tiramisu;torta;5400;8 szeletes
+Zoli kedvence (vĂĄgott ĂŠdes tea);ĂŠdes teasĂźtemĂŠny;4600;kg
+Erdei gyĂźmĂślcs kocka;tejszĂ­nes sĂźtemĂŠny;450;db
+RĂĄkĂłczi-tĂşrĂłs;tortaszelet;400;db
+MĂŠzeskrĂŠmes;pite;330;db
+TrĂźffel;tortaszelet;650;db
+SzilvĂĄs papucs;ĂŠdes teasĂźtemĂŠny;4200;kg
+ZalavĂĄri gesztenye;torta;10900;16 szeletes
+ZalavĂĄri gesztenye;torta;5700;8 szeletes
+Danubius;torta;4300;8 szeletes
+Danubius;torta;12100;24 szeletes
+Danubius;torta;8200;16 szeletes
+Alpesi karamell;torta;12200;24 szeletes
+Alpesi karamell;torta;8400;16 szeletes
+Alpesi karamell;torta;4500;8 szeletes
+Puncs;torta;11400;24 szeletes
+Puncs;torta;3900;8 szeletes
+Puncs;torta;7400;16 szeletes
+Gesztenye szĂ­v;vegyes;300;db
+Ez+Az (csokolĂĄdĂŠ ĂŠs gesztenye);tortaszelet;530;db
+TĂśkmagos fĂŠlhold;sĂłs teasĂźtemĂŠny;3300;kg
+BurgonyĂĄs pogĂĄcsa;sĂłs teasĂźtemĂŠny;2900;kg
+SomlĂłi galuska;vegyes;850;db
+Puncs;tortaszelet;450;db
+LekvĂĄros vĂĄgott;ĂŠdes teasĂźtemĂŠny;3600;kg
+Oreo;torta;16200;24 szeletes
+Oreo;torta;5700;8 szeletes
+Oreo;torta;10900;16 szeletes
+Vintage;torta;9900;16 szeletes
+RigĂł Jancsi;tejszĂ­nes sĂźtemĂŠny;450;db
+FeketeerdĹ;torta;9000;16 szeletes
+FeketeerdĹ;torta;13200;24 szeletes
+FeketeerdĹ;torta;4700;8 szeletes
+KĂłkuszos vĂĄgott;ĂŠdes teasĂźtemĂŠny;3400;kg
+FeketeerdĹ;tortaszelet;530;db
+Moscauer;ĂŠdes teasĂźtemĂŠny;5200;kg
+DiĂłs;bejgli;1800;rĂşd
+RĂĄkĂłczi-tĂşrĂłs;torta;3900;8 szeletes
+RĂĄkĂłczi-tĂşrĂłs;torta;7400;16 szeletes
+RĂĄkĂłczi-tĂşrĂłs;torta;11400;24 szeletes
+HĂĄrom kĂ­vĂĄnsĂĄg;kĂźlĂśnleges torta;5700;8 szeletes
+GesztenyĂŠs-karamellĂĄs;bejgli;2100;rĂşd
+GesztenyĂŠs szĂ­v;ĂŠdes teasĂźtemĂŠny;4400;kg
+Ropi;sĂłs teasĂźtemĂŠny;4000;kg
+Paleolit ĂŠtcsokolĂĄdĂŠ;kĂźlĂśnleges torta;5300;8 szeletes
+TĂşrĂłs;pite;350;db
+Ischler;vegyes;250;db
+LĂşdlĂĄb;tortaszelet;530;db
+CsokolĂĄdĂŠmousse;tortaszelet;450;db
+DiĂł;torta;4700;8 szeletes
+DiĂł;torta;9000;16 szeletes
+DiĂł;torta;13200;24 szeletes
+KrĂŠmes;krĂŠmes;250;db
+KrĂŠmes;krĂŠmes;400;db
+Mini ischler;ĂŠdes teasĂźtemĂŠny;3400;kg
+Paleolit ĂŠtcsokolĂĄdĂŠ;tortaszelet;600;db
+TejfĂślĂśs tĂşrĂłs hajtogatott;sĂłs teasĂźtemĂŠny;4400;kg
+MĂĄkos guba;torta;4700;8 szeletes
+mĂĄkos;bejgli;500;db
+diĂłs;bejgli;500;db

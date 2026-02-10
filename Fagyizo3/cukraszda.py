@@ -9,3 +9,9 @@ class Suti:
         self.egyseg = egyseg
         self.eladas = 0
         self.bevetel = 0
+
+    def EladasGeneralas(self) -> int:
+        return random.randint(100,500)
+
+    def BevetelSzamitas(self):
+        self.bevetel = self.eladas*self.ar

@@ -1,0 +1,88 @@
+id	nev
+1	agyag
+2	agyagos, kavicsos meddő
+3	alginit
+4	andezit
+5	andezittufa
+6	bányászati betonkavics
+8	bauxit
+9	bazalt
+10	bazalttufa
+11	bentonitos agyag
+12	blokktégla agyag
+13	burkolólap agyag
+14	cementipari agyag
+15	cementipari homok
+16	cementipari márga
+17	cementipari mészkő
+18	dácittufa
+19	diabáz
+20	díszítő mészkő
+21	dolomit
+22	dolomit murva
+24	egyéb meddő
+25	építési dácit
+26	építési diabáz
+27	építési homok
+28	építési kavics
+29	építési mészkő
+30	érett tőzeg
+31	falazó homok
+32	falazó mészkő
+33	faragható dácittufa
+35	festékföld
+36	folyami betonkavics
+38	földpátos homok
+39	gipsz
+40	gneisz
+41	gránit
+42	gránit murva
+43	gyógyiszap
+44	homok
+45	homokkő
+46	homokos kavics
+47	horzsakőtufa
+48	illites agyag
+49	ipari mészkő
+50	kálitufa
+51	kaolinos agyag
+52	kaolinos homokkő
+53	karbonátos mangánérc
+54	kavics
+55	klinoptilolitos riolittufa
+56	kovaföld
+58	közlekedésépítési agyag
+59	közlekedésépítési dolomit
+60	közlekedésépítési homok
+61	közlekedésépítési kavics
+62	kvarchomokkő
+63	kvarcit
+64	lápföld
+65	lápimész
+67	márga
+68	meddő
+69	mészkő
+70	minőségi dolomit
+71	perlit
+72	polimetallikus érc
+73	radioaktív érc
+74	rézérc
+75	riolit
+76	riolittufa
+77	rostos tőzeg
+79	széndioxid
+82	talk
+83	tégla-agyag
+84	tömör tégla-agyag
+85	tőzeg
+86	tőzeg-lápföld-lápimész
+87	tűz- és saválló agyag
+88	vakoló homok
+89	vázkerámiai agyag
+90	vegyes tőzeg
+91	vízépítési agyag
+92	zeolitos riolittufa
+93	zöldpala
+94	zúzott andezit
+95	vízépítési andezit
+96	zúzott dolomit

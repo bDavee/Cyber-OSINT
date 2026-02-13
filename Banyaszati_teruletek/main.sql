@@ -15,15 +15,11 @@ CREATE TABLE telek (
 CREATE TABLE kapcsolo(
     telek_id int NOT NULL,
     nyersanyagid int NOT NULL,
-    PRIMARY KEY (nyersanyagid),
-   
-
+    PRIMARY KEY (nyersanyagid, telek_id)
 );
 
 CREATE TABLE nyersanyag (
    id int NOT NULL,
    nev varchar(250),
    PRIMARY KEY (id)
-
-
 );

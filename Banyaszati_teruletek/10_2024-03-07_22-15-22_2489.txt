@@ -1,4 +1,3 @@
-id	nev
 1	agyag
 2	agyagos, kavicsos meddő
 3	alginit

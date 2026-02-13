@@ -33,3 +33,18 @@ SELECT telepules,muvmod FROM `telek` WHERE allapot LIKE "S" ORDER BY telepules D
 3, Feladat
 
 SELECT telepules,muvmod FROM `telek` WHERE fedoszint AND fedoszint < 0  ORDER BY telepules DESC;
+
+4, Feladat
+SELECT telepules,nev,fedoszint,fekuszint FROM nyersanyag,telek WHERE nev LIKE "%dolomit%";
+
+5, Feladat
+
+SELECT telepules,nev,(fedoszint-fekuszint) AS vastagsag FROM nyersanyag,telek WHERE nev LIKE "%kavics%" ORDER BY vastagsag DESC LIMIT 3;
+
+6, Feladat
+
+SELECT telepules,nev FROM nyersanyag,telek WHERE fedoszint >= 450 AND fekuszint <= 550;
+
+7, Feladat
+
+SELECT nev, COUNT(telek_id) AS telek_szam FROM nyersanyag JOIN kapcsolo ON id = nyersanyagid GROUP BY id ORDER BY telek_szam DESC LIMIT 1;

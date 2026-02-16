@@ -13,9 +13,11 @@ CREATE TABLE telek (
 );
 
 CREATE TABLE kapcsolo(
-    telek_id int NOT NULL,
+    telekid int NOT NULL,
     nyersanyagid int NOT NULL,
-    PRIMARY KEY (nyersanyagid, telek_id)
+    PRIMARY KEY (telekid, nyersanyagid),
+    FOREIGN KEY (telekid) REFERENCES telek(id),
+    FOREIGN KEY (nyersanyagid) REFERENCES nyersanyag(id)
 );
 
 CREATE TABLE nyersanyag (

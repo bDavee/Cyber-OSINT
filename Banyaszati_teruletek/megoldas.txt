@@ -13,10 +13,11 @@ CREATE TABLE telek (
 );
 
 CREATE TABLE kapcsolo(
-    telek_id int NOT NULL,
+    telekid int NOT NULL,
     nyersanyagid int NOT NULL,
-    PRIMARY KEY (nyersanyagid),
-   
+    PRIMARY KEY (telekid, nyersanyagid),
+    FOREIGN KEY (telekid) REFERENCES telek(id),
+    FOREIGN KEY (nyersanyagid) REFERENCES nyersanyag(id)
 );
 
 CREATE TABLE nyersanyag (
@@ -28,23 +29,23 @@ CREATE TABLE nyersanyag (
 
 2, Feladat
 
-SELECT telepules,muvmod FROM `telek` WHERE allapot LIKE "S" ORDER BY telepules DESC;
+SELECT telepules,muvmod FROM `telek` WHERE allapot="S" ORDER BY muvmod, telepules;
 
 3, Feladat
 
-SELECT telepules,muvmod FROM `telek` WHERE fedoszint AND fedoszint < 0  ORDER BY telepules DESC;
+SELECT DISTINCT n.nev FROM telek t JOIN kapcsolo k ON t.id = k.telekid JOIN nyersanyag n ON k.nyersanyagid = n.id WHERE t.fedoszint < 0 AND t.fekuszint < 0;
 
 4, Feladat
-SELECT telepules,nev,fedoszint,fekuszint FROM nyersanyag,telek WHERE nev LIKE "%dolomit%";
+
+SELECT t.telepules, t.fedoszint, t.fekuszint FROM telek t JOIN kapcsolo k ON t.id = k.telekid JOIN nyersanyag n ON k.nyersanyagid = n.id WHERE t.allapot = 'M'AND n.nev LIKE '%dolomit%';
 
 5, Feladat
 
-SELECT telepules,nev,(fedoszint-fekuszint) AS vastagsag FROM nyersanyag,telek WHERE nev LIKE "%kavics%" ORDER BY vastagsag DESC LIMIT 3;
+SELECT t.telepules, (t.fedoszint - t.fekuszint) AS vastagsag,n.nev FROM telek t JOIN kapcsolo k ON t.id = k.telekid JOIN nyersanyag n ON k.nyersanyagid = n.id WHERE n.nev LIKE '%kavics%' ORDER BY vastagsag DESC LIMIT 3;
 
 6, Feladat
-
-SELECT telepules,nev FROM nyersanyag,telek WHERE fedoszint >= 450 AND fekuszint <= 550;
+SELECT DISTINCT t.telepules, n.nev FROM telek t JOIN kapcsolo k ON t.id = k.telekid JOIN nyersanyag n ON k.nyersanyagid = n.id WHERE t.fedoszint >= 450 AND t.fekuszint <= 550;
 
 7, Feladat
 
-SELECT nev, COUNT(telek_id) AS telek_szam FROM nyersanyag JOIN kapcsolo ON id = nyersanyagid GROUP BY id ORDER BY telek_szam DESC LIMIT 1;
+SELECT n.nev, COUNT(*) AS telek_szam FROM kapcsolo k JOIN nyersanyag n ON k.nyersanyagid = n.id GROUP BY n.nev ORDER BY telek_szam DESC LIMIT 1;

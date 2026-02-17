@@ -82,7 +82,38 @@
     
 }
 
+.lvl{
+    text-align: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: 5px;
+    transform: skew(-15deg);
+    border-radius: 5px;
+    font-weight: bold;
+    color: black;
+    background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.603), transparent);
+    background-size: 200% 100%;
+    animation: lightBeam 4s linear infinite alternate;
+    width: min-content;
+}
 
+.konnyu{
+     background-color: rgb(0, 191, 0);
+}
+
+.kozepes{
+    background-color: rgb(0, 204, 255);
+}
+
+.nehez{
+    background-color: rgb(189, 0, 189);
+}
+
+.brutalis{
+    background-color: #efab00;
+}
 
 @keyframes move_wave {
     0% {

@@ -1,0 +1,36 @@
+/* Oldal betűtípus és sorkizárt */
+body {
+    font-family: Arial, sans-serif;
+    text-align: justify;
+}
+
+/* Fejléc háttérkép */
+header {
+    background-image: url("15_Busójárás/15_2024-03-13_12-13-35_6662.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 250px;
+}
+
+/* Címek színe */
+h1, h2 {
+    color: #B16400;
+    margin-bottom: 20px;
+}
+
+/* Bekezdések első betűje */
+p::first-letter {
+    margin-left: 20px;
+}
+
+/* Képméret */
+img {
+    min-width: 300px;
+    width: 15em;
+}
+
+/* Egyedi felsorolásjel */
+ul {
+    list-style-image: url("jel.png");
+}

@@ -1,0 +1,29 @@
+Web 
+-user save???
+- multiplayer 2 per lobby
+- character creation 
+    class selection
+        Harcos
+        Tolvaj
+        Pap
+        Paladin/Assasin
+        Holy Knight
+        Vampier
+    username choosing
+    weapon selection
+        Kard
+        Tőr
+        Bot
+        Pallos
+        Buzogány
+    
+
+Gameplay:
+rounds!!!!
+
+if "d" press random number genarates between 1-10 add the 2 results and +3
+Pl.: 2d10+3 d==dice so 
+
+singel and multiplayer modes!!!!!!
+
+

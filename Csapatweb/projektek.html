@@ -6,7 +6,7 @@
     <title>Projekteink</title>
     <link rel="shortcut icon" href="./logo.png" type="image/x-icon">
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-   <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="waveWrapper waveAnimation">
@@ -35,6 +35,7 @@
         </div>
     </div>
 </nav>  
+
 <div class="content-wrapper ">
         <div class="container ">
            <div class="row"> 
@@ -54,28 +55,28 @@
                                     <td>Fagyizó - 3</td>
                                     <td><div class="lvl kozepes">Közepes</div></td>
                                     <td>1800</td>
-                                    <td><button class="btn btn-dark"><a href="https://github.com/bDavee/Cyber-OSINT/tree/main/Fagyizo3" class="link-underline-opacity-0 link-light ">Github</a></button></td>
+                                    <td><button class="btn btn-dark"><a href="https://github.com/bDavee/Cyber-OSINT/tree/main/Fagyizo3" target="_blank" class="link-underline-opacity-0 link-light ">Github</a></button></td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
                                     <td>Balatongyörök</td>
                                     <td><div class="lvl kozepes">Közepes</div></td>
                                     <td>1000</td>
-                                    <td><button class="btn btn-dark"><a href="https://github.com/bDavee/Cyber-OSINT/tree/main/Balatongyorok" class="link-underline-opacity-0 link-light ">Github</a></button></td>
+                                    <td><button class="btn btn-dark"><a href="https://github.com/bDavee/Cyber-OSINT/tree/main/Balatongyorok" target="_blank" class="link-underline-opacity-0 link-light ">Github</a></button></td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
                                     <td>Busójárás</td>
                                     <td><div class="lvl kozepes">Közepes</div></td>
                                     <td>1000</td>
-                                    <td><button class="btn btn-dark"><a href="https://github.com/bDavee/Cyber-OSINT/tree/main/Busojaras" class="link-underline-opacity-0 link-light ">Github</a></button></td>
+                                    <td><button class="btn btn-dark"><a href="https://github.com/bDavee/Cyber-OSINT/tree/main/Busojaras" target="_blank" class="link-underline-opacity-0 link-light ">Github</a></button></td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
                                     <td>Bányászati területek</td>
                                     <td><div class="lvl nehez">Nehéz</div></td>
                                     <td>2970</td>
-                                    <td><button class="btn btn-dark"><a href="https://github.com/bDavee/Cyber-OSINT/tree/main/Banyaszati_teruletek" class="link-underline-opacity-0 link-light ">Github</a></button></td>
+                                    <td><button class="btn btn-dark"><a href="https://github.com/bDavee/Cyber-OSINT/tree/main/Banyaszati_teruletek" target="_blank" class="link-underline-opacity-0 link-light ">Github</a></button></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -86,7 +87,6 @@
 </div>
 
 
-
 <script>
 let lastScroll = 0;
 const navbar = document.getElementById("mainNavbar");
@@ -95,7 +95,7 @@ window.addEventListener("scroll", () => {
     const currentScroll = window.pageYOffset;
 
     if (currentScroll > lastScroll && currentScroll > 100) {
-    underline-hover
+    
         navbar.style.top = "-120px";
     } else {
         

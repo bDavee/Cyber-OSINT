@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyber OSINT Főoldala</title>
+    <link rel="shortcut icon" href="./logo.png" type="image/x-icon">
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="waveWrapper waveAnimation">
+  <div class="waveWrapperInner bgTop">
+    <div class="wave waveTop" style="background-image: url('http://front-end-noobs.com/jecko/img/wave-top.png')"></div>
+  </div>
+  <div class="waveWrapperInner bgMiddle">
+    <div class="wave waveMiddle" style="background-image: url('http://front-end-noobs.com/jecko/img/wave-mid.png')"></div>
+  </div>
+  <div class="waveWrapperInner bgBottom">
+    <div class="wave waveBottom" style="background-image: url('http://front-end-noobs.com/jecko/img/wave-bot.png')"></div>
+  </div>
+</div>
+
+<nav id="mainNavbar" class="navbar bg-dark border-bottom border-body fixed-top" data-bs-theme="dark">
+    <div class="container-fluid">
+        <a href="./index.html" class="navbar-brand link-light link-underline-opacity-0">
+            <img src="./logo.png" alt="logo" width="65" height="65">
+            Cyber OSINT
+        </a>
+        <div class="d-flex ms-auto gap-4 pe-4">
+            <a href="./index.html" class="link-light underline-hover">Főoldal</a>
+            <a href="./rolunk.html" class="link-light underline-hover">Rólunk</a>
+            <a href="./csapattagok.html" class="link-light underline-hover">Csapattagok</a>
+            <a href="./projektek.html" class="link-light underline-hover">Projektek</a>
+        </div>
+    </div>
+</nav>  
+<div class="content-wrapper">
+    <div class="content-box">
+        <h1 class="text-center">Cyber OSINT</h1>
+        <p>
+            <h3 class="text-center">"Együtt kódolunk a szenvedélyért"</h3>
+        </p>
+    </div>
+</div>
+
+
+<script>
+let lastScroll = 0;
+const navbar = document.getElementById("mainNavbar");
+
+window.addEventListener("scroll", () => {
+    const currentScroll = window.pageYOffset;
+
+    if (currentScroll > lastScroll && currentScroll > 100) {
+        
+        navbar.style.top = "-120px";
+    } else {
+        
+        navbar.style.top = "0";
+    }
+
+    lastScroll = currentScroll;
+});
+</script>
+
+  
+</body>
+</html>
